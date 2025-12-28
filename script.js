@@ -14,3 +14,13 @@ function calculate() {
     }
     display.value = eval(exp);
 }
+
+
+
+
+
+
+
+
+
+

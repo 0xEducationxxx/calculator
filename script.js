@@ -13,4 +13,4 @@ function calculate() {
         return;
     }
     display.value = eval(exp);
-}
+
